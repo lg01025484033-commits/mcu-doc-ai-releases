@@ -1,0 +1,8 @@
+{
+  "revoked": [
+    "MCU-TESTCO-2026-1672B7C8-GW6220",
+    "MCU-ACME-2027-548E56F8-GW6220.GW6310-M3-T1000000"
+  ],
+  "issuedAt": "2026-04-27T04:55:29.790Z",
+  "_sig": "a732f66a6bdb04c2719654fca7fd075d4f3a3b231b25a763ba2da3b1bffb9bef"
+}
