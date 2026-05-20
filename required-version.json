@@ -1,8 +1,10 @@
 {
-  "minVersion": "1.1.2",
-  "reason": "v1.1.2+ 누적 변경 (banner 시각 일관성 / Pretendard 폰트 / Extended Thinking / 외부 LD 회로 fix 등). 즉시 강제 업데이트.",
+  "_comment": "v1.1.5 강제 업데이트 모드 — Mode C (긴급 즉시 차단). v1.1.4 이하 hard block + Claude API 차단",
+  "_updated": "2026-05-20",
+  "_reason": "blacklist-cache 위변조 차단 (HMAC 서명) + userData 폴더 통합 마이그레이션 + MachineId 안정화 (v1.1.4) — 즉시 업데이트 필요",
+  "minVersion": "1.1.5",
   "hardStop": true,
-  "severity": "critical",
   "gracePeriodHours": 0,
-  "updatedAt": "2026-04-27"
+  "severity": "critical",
+  "reason": "v1.1.5 보안 hotfix — 블랙리스트 캐시 위변조 차단 + 사용자 데이터 폴더 통합. 즉시 업데이트가 필요합니다."
 }
