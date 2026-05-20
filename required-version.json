@@ -1,7 +1,7 @@
 {
-  "minVersion": "1.1.5",
+  "minVersion": "1.1.6",
   "hardStop": true,
   "gracePeriodHours": 0,
   "severity": "critical",
-  "reason": "보안 강화 업데이트입니다. v1.1.5 로 즉시 업데이트해 주세요. 라이선스는 그대로 유지됩니다."
+  "reason": "AI 서버 오류 메시지 친화 개선 업데이트입니다. v1.1.6 으로 즉시 업데이트해 주세요. 라이선스는 그대로 유지됩니다."
 }
