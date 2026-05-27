@@ -3,5 +3,5 @@
   "hardStop": true,
   "gracePeriodHours": 0,
   "severity": "critical",
-  "reason": "v1.2.0 — 영문 UI 전면 지원 + 누적 i18n / UX 안정화 + 보안 audit 후속 (splash sandbox) + NDA 패턴 패키지 포함 (v1.1.8+ startup crash 해결). 즉시 업데이트해 주세요. 라이선스는 그대로 유지됩니다."
+  "reason": "v1.2.0 — 영문 메뉴 지원 추가 + 안정성 개선. 즉시 업데이트해 주세요. 라이선스는 그대로 유지됩니다."
 }
